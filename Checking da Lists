@@ -1,0 +1,5 @@
+Places = ["Cluckin Bell", "Autozone", "MrBeastBurger", "El Valle", "Los Pollos Hermanos", "ImpossibleFundz", "Supreme'z Barbershop", "Home"]
+print(Places[2])
+Places.append("Yurrr")
+for i in range (len(Places)):
+    print(Places)
